@@ -59,7 +59,7 @@ class ShortUniqueId {
     SUIDictionaries.hex: _hexDictRanges,
   };
 
-  final String _version = '0.0.1';
+  final String _version = '1.0.0';
 
   int _counter = 0;
   int _dictIndex = 0;

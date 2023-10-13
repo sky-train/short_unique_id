@@ -1,7 +1,7 @@
 name: short_unique_id
 description: A starting point for Dart libraries or applications.
-version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+version: 1.0.0
+repository: https://github.com/sky-train/short_unique_id
 
 environment:
   sdk: ^3.1.0
